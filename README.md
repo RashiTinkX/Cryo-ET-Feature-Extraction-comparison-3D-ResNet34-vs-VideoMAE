@@ -7,9 +7,10 @@ This project compares the feature extraction and clustering capabilities of two 
 ```
 project/
 │
-├── app.py                     # Main script to run the pipeline
-├── README.md                   # This file
-└── cryo-ET-sample/             # Folder with Cryo-ET .mrc files
+├── README.md                # This file
+├── README.md                # This file
+├── app.py                   # Main script to run the pipeline
+└── cryo-ET-sample/          # Folder with Cryo-ET .mrc files
 ```
 
 ## Features
