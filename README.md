@@ -31,8 +31,7 @@ project/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/cryo-et-feature-comparison.git
-cd cryo-et-feature-comparison
+git clone https://github.com/RashiTinkX/Cryo-ET-Feature-Extraction-comparison.git
 ```
 
 ### 2. Install Dependencies
