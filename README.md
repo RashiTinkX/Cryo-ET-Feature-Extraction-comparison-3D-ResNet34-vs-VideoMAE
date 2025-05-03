@@ -7,11 +7,7 @@ This project compares the feature extraction and clustering capabilities of two 
 ```
 project/
 │
-├── models/                     # Contains ResNet34 implementation (from Kensho Hara)
-│   └── resnet.py
-├── resnet-34-kinetics-cpu.pth  # Pretrained checkpoint for ResNet34
-├── videomae_checkpoint.pth     # Pretrained checkpoint for VideoMAE
-├── main.py                     # Main script to run the pipeline
+├── app.py                     # Main script to run the pipeline
 ├── README.md                   # This file
 └── cryo-ET-sample/             # Folder with Cryo-ET .mrc files
 ```
